@@ -2,3 +2,23 @@ baseURL = 'https://example.org/'
 languageCode = 'en-us'
 title = 'My New Hugo Site'
 theme = 'ananke'
+
+[params]
+  github = "https://github.com/AnnaStuckert"
+  twitter = "https://x.com/StuckertAnna"
+  linkedin = "https://www.linkedin.com/in/anna-stuckert-9aab86136/"
+
+[[menu.main]]
+name = "Home"
+url = "/"
+weight = 1
+
+[[menu.main]]
+name = "CV"
+url = "/cv/"
+weight = 2
+
+[[menu.main]]
+name = "Publications"
+url = "/publications/"
+weight = 3

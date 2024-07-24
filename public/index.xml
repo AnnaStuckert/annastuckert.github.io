@@ -2,11 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>My New Hugo Site</title>
-    <link>https://example.org/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content on My New Hugo Site</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate></lastBuildDate>
-    <atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 23 Jul 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>CV</title>
+      <link>http://localhost:1313/cv/</link>
+      <pubDate>Tue, 23 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/cv/</guid>
+      <description>Anna Stuckert Education 2023 - : PhD in Neuroscience, University of St. Andrews. 2021 - 2023: M.Sc. in Neuroscience, University of Copenhagen. 2018 - 2021: B.Sc. in Cognitive Science, Aarhus University. Experience SEPTEMBER 2023 – SEPTEMBER 2027: PhD STUDENT – UNIVERSITY OF ST ANDREWS, SCHOOL OF PSYCHOLOGY AND NEUROSCIENCE, ALLODI LAB&#xA;Description of your responsibilities and achievements. FEBRUARY 2022 – AUGUST 2023: LABORATORY ASSISTANT AND MASTER THESIS STUDENT: UNIVERSITY OF COPENHAGEN, DEPARTMENT OF NEUROSCIENCE, ALLODI LAB</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/publications/</link>
+      <pubDate>Fri, 06 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publications/</guid>
+      <description>Publications Mora, S., Stuckert, A., von Huth Friis, R., Pietersz, K., Noes-Holt, G., Montañana-Rosell, R., &amp;hellip; &amp;amp; Allodi, I. (2024). Stabilization of V1 interneuron-motor neuron connectivity ameliorates motor phenotype in a mouse model of ALS. Nature Communications, 15(1), 4867. https://doi.org/10.1038/s41467-024-48925-7 Mitchell, A., Ehmsen, J., Christensen, D., Basińska, M., Stuckert, A., Haggard, P., Fardo, F. (2023) Investigating the influence of location of cold and warm responding afferents on the Thermal Grill Illusion.</description>
+    </item>
   </channel>
 </rss>
